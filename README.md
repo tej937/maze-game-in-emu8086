@@ -8,4 +8,4 @@ if both string are same then bomb is defused else NOT DEFUSED TRY AGAIN is print
 and still if string are not matched then MISSION FAILED BOMB HAS BEEN BLASTED is printed in the end. 
 In the initial starting of the game a small timer of 60secs is given so if any player doesnot reach the bomb site before the timer then bomb explodes automatically
 
-// if you have any doubts regarding the code please do let me know i will help you in that. you can also mail me at tejasbarlota12@gmail.com
+// if you have any doubts regarding the code please do let me know i will help you in that. you can also mail me at tejasbarlota12@gmail.com or omtrivedi910@gmail.com
